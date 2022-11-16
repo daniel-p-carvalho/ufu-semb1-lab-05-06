@@ -1,0 +1,4 @@
+stm32f411-blackpill/.deps/
+stm32f411-blackpill/*.bin
+stm32f411-blackpill/*.elf
+stm32f411-blackpill/build/
